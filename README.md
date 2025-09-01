@@ -1,6 +1,6 @@
 # React-Contact-Manager
 
-									                        # Documentation
+							# Documentation
 
 1.Get Started
 
@@ -10,9 +10,9 @@ Requirements: Node.js latest version
 
 Run the following commands
 
->> cd contact-manager
->> npm install
->> npm start
+>>> cd contact-manager
+>>> npm install
+>>> npm start
 
 3.Folder structure
 
@@ -29,3 +29,4 @@ contact-manager/
         L...App.js
     L...package.json
     L...tailwind.config.js
+
