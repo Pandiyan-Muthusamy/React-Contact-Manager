@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Pandiyan Muthusamy",
+    "mobile": "6374924164",
+    "email": "developer.pandiyan@gmail.com",
+    "address": "12 Porur, Chennai"
+  },
+  {
+    "id": 2,
+    "name": "Buincy Hanson",
+    "mobile": "9865123478",
+    "email": "hanson.buincy@gmail.com",
+    "address": "34 MG Road, Bangalore"
+  },
+  {
+    "id": 3,
+    "name": "Hanna Donovan",
+    "mobile": "9856231470",
+    "email": "hanna.donovan@gmail.com",
+    "address": "56 Lake View Road, Coimbatore"
+  },
+  {
+    "id": 4,
+    "name": "Ravi Kumar",
+    "mobile": "9785412369",
+    "email": "ravi.kumar@gmail.com",
+    "address": "89 Gandhi Street, Madurai"
+  },
+  {
+    "id": 5,
+    "name": "Sophia Johnson",
+    "mobile": "9796541230",
+    "email": "sophia.johnson@gmail.com",
+    "address": "102 Mount Road, Chennai"
+  },
+  {
+    "id": 6,
+    "name": "Liam Brown",
+    "mobile": "9765432198",
+    "email": "liam.brown@gmail.com",
+    "address": "78 Residency Road, Bangalore"
+  },
+  {
+    "id": 7,
+    "name": "Emma Davis",
+    "mobile": "9754213698",
+    "email": "emma.davis@gmail.com",
+    "address": "21 College Road, Coimbatore"
+  },
+  {
+    "id": 8,
+    "name": "Arun Raj",
+    "mobile": "9741236598",
+    "email": "arun.raj@gmail.com",
+    "address": "67 Race Course Road, Chennai"
+  },
+  {
+    "id": 9,
+    "name": "Olivia Wilson",
+    "mobile": "9732145689",
+    "email": "olivia.wilson@gmail.com",
+    "address": "45 MG Nagar, Hyderabad"
+  },
+  {
+    "id": 10,
+    "name": "Noah Thomas",
+    "mobile": "9723456987",
+    "email": "noah.thomas@gmail.com",
+    "address": "32 Ring Road, Delhi"
+  }
+]
